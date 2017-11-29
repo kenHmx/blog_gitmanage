@@ -25,7 +25,7 @@ SECRET_KEY = '^&q7ko(i139e^pe=&f-06#qva=xu#gjh+np^8dk_+@2-1&01vd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','localhost','.isyd.fun']
+ALLOWED_HOSTS = ['127.0.0.1','localhost','120.78.149.82','.isyd.fun']
 
 
 # Application definition
